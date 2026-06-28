@@ -1,0 +1,48 @@
+.dark-mode{
+    background:#0f172a !important;
+}
+
+.dark-mode body{
+    background:#0f172a !important;
+}
+
+.dark-mode .left h1{
+    color:white !important;
+}
+
+.dark-mode .left span{
+    color:#3b82f6 !important;
+}
+
+.dark-mode .left p{
+    color:#cbd5e1 !important;
+}
+
+.dark-mode .nav-links a,
+.dark-mode .login{
+    color:white !important;
+}
+
+.dark-mode .card{
+    background:#1e293b !important;
+}
+
+.dark-mode .card h3{
+    color:white !important;
+}
+
+.dark-mode .card p{
+    color:#cbd5e1 !important;
+}
+
+.dark-mode .trusted{
+    background:#1e293b !important;
+}
+
+.dark-mode .trusted h2{
+    color:white !important;
+}
+
+.dark-mode .companies span{
+    color:#cbd5e1 !important;
+}
